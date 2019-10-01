@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Namespace_Example\Namespace_Example\bin\Debug\Namespace_Example.exe.config
+D:\DEV\C#\Practice\Namespace_Example\Namespace_Example\bin\Debug\Namespace_Example.exe
+D:\DEV\C#\Practice\Namespace_Example\Namespace_Example\bin\Debug\Namespace_Example.pdb
+D:\DEV\C#\Practice\Namespace_Example\Namespace_Example\obj\Debug\Namespace_Example.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Namespace_Example\Namespace_Example\obj\Debug\Namespace_Example.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Namespace_Example\Namespace_Example\obj\Debug\Namespace_Example.exe
+D:\DEV\C#\Practice\Namespace_Example\Namespace_Example\obj\Debug\Namespace_Example.pdb
